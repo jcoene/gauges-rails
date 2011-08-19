@@ -31,6 +31,6 @@ You can do this in a layout file (typically app/views/layouts/application.html.e
 
 You can pass a hash of arguments to the *gauges_tracking_code* helper method. Example:
 
-    <%= gauges_tracking_code :site_id => 'MY_CUSTOM_SITE_ID_HERE'
+    <%= gauges_tracking_code :site_id => 'MY_CUSTOM_SITE_ID_HERE' %>
 
 That's all for now, folks!
